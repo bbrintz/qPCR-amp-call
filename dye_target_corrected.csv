@@ -1,0 +1,513 @@
+,Well Position,Sample Name,Target Name,CT,FAM,dye,mixed,corrected
+1,A1,Sample 01,Ancylostoma,Undetermined,1,FAM,,FAM
+2,A2,Sample 01,Ascaris,Undetermined,1,FAM,,FAM
+3,A3,Sample 01,E.bieneusi,Undetermined,1,FAM,,FAM
+4,A3,Sample 01,E.intestinalis,Undetermined,0,VIC,,VIC
+5,A4,Sample 01,PhHV,28.08,1,FAM,,FAM
+6,A5,Sample 01,E.histolytica,Undetermined,1,FAM,,FAM
+7,A6,Sample 01,Giardia,32.16,1,FAM,,FAM
+8,A7,Sample 01,Cryptosporidium,Undetermined,1,FAM,,FAM
+9,A8,Sample 01,EPEC_eae,29.354,1,FAM,,FAM
+10,A9,Sample 01,ETEC_STh,Undetermined,1,FAM,,FAM
+11,A9,Sample 01,ETEC_STp,38.554,0,VIC,,VIC
+12,A10,Sample 01,EAEC_aaiC,29.92,1,FAM,,FAM
+13,A10,Sample 01,EAEC_aatA,Undetermined,0,VIC,,VIC
+14,A11,Sample 01,Hs99999901_s1,20.12,1,FAM,,FAM
+15,A12,Sample 01,V.cholerae,Undetermined,1,FAM,,FAM
+16,A13,Sample 01,Salmonella,Undetermined,1,FAM,,FAM
+17,A14,Sample 01,C.jejuni/coli,21.975,1,FAM,,FAM
+18,A15,Sample 01,C.difficile tcdA,Undetermined,1,FAM,VIC,VIC
+19,A15,Sample 01,C.difficile tcdB,Undetermined,0,VIC,FAM,FAM
+20,A16,Sample 01,Aeromonas,Undetermined,1,FAM,,FAM
+21,A17,Sample 01,Adenovirus 40/41,Undetermined,1,FAM,,FAM
+22,A18,Sample 01,Norovirus GI,Undetermined,1,FAM,,FAM
+23,A19,Sample 01,Astrovirus,Undetermined,1,FAM,,FAM
+24,A20,Sample 01,MS2,27.853,1,FAM,,FAM
+25,A21,Sample 01,Rotavirus_P11,Undetermined,0,VIC,,VIC
+26,A21,Sample 01,Rotavirus_P8,Undetermined,1,FAM,,FAM
+27,A22,Sample 01,Rotavirus_P10,Undetermined,0,VIC,,VIC
+28,A22,Sample 01,Rotavirus_P6,Undetermined,1,FAM,,FAM
+29,A23,Sample 01,Rotavirus_P4,Undetermined,1,FAM,,FAM
+30,A23,Sample 01,Rotavirus_P9,Undetermined,0,VIC,,VIC
+31,A24,Sample 01,Rotavirus,Undetermined,1,FAM,,FAM
+32,B1,Sample 01,Necator,Undetermined,1,FAM,,FAM
+33,B2,Sample 01,Trichuris,Undetermined,1,FAM,,FAM
+34,B3,Sample 01,Cyclospora,Undetermined,1,FAM,,FAM
+35,B3,Sample 01,Isospora,Undetermined,0,VIC,,VIC
+36,B4,Sample 01,PhHV,28.055,1,FAM,,FAM
+37,B5,Sample 01,Strongyloides,Undetermined,1,FAM,,FAM
+38,B6,Sample 01,Giardia A,Undetermined,0,VIC,,VIC
+39,B6,Sample 01,Giardia B,Undetermined,1,FAM,,FAM
+40,B7,Sample 01,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+41,B7,Sample 01,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+42,B8,Sample 01,EPEC_bfpA,28.127,1,FAM,,FAM
+43,B9,Sample 01,ETEC_LT,34.645,1,FAM,,FAM
+44,B10,Sample 01,EAEC_aar,Undetermined,0,VIC,,VIC
+45,B10,Sample 01,EAEC_aggR,Undetermined,1,FAM,,FAM
+46,B11,Sample 01,Bacterial 16S,11.285,1,FAM,,FAM
+47,B12,Sample 01,STEC_stx1,Undetermined,1,FAM,VIC,VIC
+48,B12,Sample 01,STEC_stx2,Undetermined,0,VIC,FAM,FAM
+49,B13,Sample 01,Shigella/EIEC,Undetermined,1,FAM,,FAM
+50,B14,Sample 01,Campylobacter pan,20.061,1,FAM,,FAM
+51,B15,Sample 01,H.pylori,Undetermined,1,FAM,,FAM
+52,B16,Sample 01,B.fragilis,31.658,1,FAM,,FAM
+53,B17,Sample 01,Adenovirus,30.634,1,FAM,,FAM
+54,B18,Sample 01,Norovirus GII,Undetermined,1,FAM,,FAM
+55,B19,Sample 01,Sapovirus,Undetermined,1,FAM,,FAM
+56,B20,Sample 01,MS2,27.853,1,FAM,,FAM
+57,B21,Sample 01,Rotavirus_G12,Undetermined,NA,FAM,VIC,VIC
+58,B21,Sample 01,Rotavirus_G4,Undetermined,NA,VIC,FAM,FAM
+59,B22,Sample 01,Rotavirus_G10,Undetermined,NA,FAM,VIC,VIC
+60,B22,Sample 01,Rotavirus_G3,Undetermined,NA,VIC,FAM,FAM
+61,B23,Sample 01,Rotavirus_G2,Undetermined,1,FAM,,FAM
+62,B23,Sample 01,Rotavirus_G9,Undetermined,0,VIC,,VIC
+63,B24,Sample 01,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+64,B24,Sample 01,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+65,C1,Sample 02,Ancylostoma,Undetermined,1,FAM,,FAM
+66,C2,Sample 02,Ascaris,Undetermined,1,FAM,,FAM
+67,C3,Sample 02,E.bieneusi,Undetermined,1,FAM,,FAM
+68,C3,Sample 02,E.intestinalis,Undetermined,0,VIC,,VIC
+69,C4,Sample 02,PhHV,29.384,1,FAM,,FAM
+70,C5,Sample 02,E.histolytica,Undetermined,1,FAM,,FAM
+71,C6,Sample 02,Giardia,28.558,1,FAM,,FAM
+72,C7,Sample 02,Cryptosporidium,35.123,1,FAM,,FAM
+73,C8,Sample 02,EPEC_eae,Undetermined,1,FAM,,FAM
+74,C9,Sample 02,ETEC_STh,35.808,1,FAM,,FAM
+75,C9,Sample 02,ETEC_STp,33.966,0,VIC,,VIC
+76,C10,Sample 02,EAEC_aaiC,Undetermined,1,FAM,,FAM
+77,C10,Sample 02,EAEC_aatA,Undetermined,0,VIC,,VIC
+78,C11,Sample 02,Hs99999901_s1,23.376,1,FAM,,FAM
+79,C12,Sample 02,V.cholerae,Undetermined,1,FAM,,FAM
+80,C13,Sample 02,Salmonella,Undetermined,1,FAM,,FAM
+81,C14,Sample 02,C.jejuni/coli,Undetermined,1,FAM,,FAM
+82,C15,Sample 02,C.difficile tcdA,Undetermined,1,FAM,,VIC
+83,C15,Sample 02,C.difficile tcdB,Undetermined,0,VIC,,FAM
+84,C16,Sample 02,Aeromonas,Undetermined,1,FAM,,FAM
+85,C17,Sample 02,Adenovirus 40/41,35.487,1,FAM,,FAM
+86,C18,Sample 02,Norovirus GI,Undetermined,1,FAM,,FAM
+87,C19,Sample 02,Astrovirus,Undetermined,1,FAM,,FAM
+88,C20,Sample 02,MS2,28.746,1,FAM,,FAM
+89,C21,Sample 02,Rotavirus_P11,Undetermined,0,VIC,,VIC
+90,C21,Sample 02,Rotavirus_P8,Undetermined,1,FAM,,FAM
+91,C22,Sample 02,Rotavirus_P10,Undetermined,0,VIC,,VIC
+92,C22,Sample 02,Rotavirus_P6,Undetermined,1,FAM,,FAM
+93,C23,Sample 02,Rotavirus_P4,Undetermined,1,FAM,,FAM
+94,C23,Sample 02,Rotavirus_P9,Undetermined,0,VIC,,VIC
+95,C24,Sample 02,Rotavirus,Undetermined,1,FAM,,FAM
+96,D1,Sample 02,Necator,Undetermined,1,FAM,,FAM
+97,D2,Sample 02,Trichuris,Undetermined,1,FAM,,FAM
+98,D3,Sample 02,Cyclospora,Undetermined,1,FAM,,FAM
+99,D3,Sample 02,Isospora,Undetermined,0,VIC,,VIC
+100,D4,Sample 02,PhHV,29.348,1,FAM,,FAM
+101,D5,Sample 02,Strongyloides,Undetermined,1,FAM,,FAM
+102,D6,Sample 02,Giardia A,Undetermined,0,VIC,,VIC
+103,D6,Sample 02,Giardia B,Undetermined,1,FAM,,FAM
+104,D7,Sample 02,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+105,D7,Sample 02,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+106,D8,Sample 02,EPEC_bfpA,Undetermined,1,FAM,,FAM
+107,D9,Sample 02,ETEC_LT,Undetermined,1,FAM,,FAM
+108,D10,Sample 02,EAEC_aar,Undetermined,0,VIC,,VIC
+109,D10,Sample 02,EAEC_aggR,Undetermined,1,FAM,,FAM
+110,D11,Sample 02,Bacterial 16S,15.592,1,FAM,,FAM
+111,D12,Sample 02,STEC_stx1,Undetermined,1,FAM,,VIC
+112,D12,Sample 02,STEC_stx2,Undetermined,0,VIC,,FAM
+113,D13,Sample 02,Shigella/EIEC,Undetermined,1,FAM,,FAM
+114,D14,Sample 02,Campylobacter pan,Undetermined,1,FAM,,FAM
+115,D15,Sample 02,H.pylori,Undetermined,1,FAM,,FAM
+116,D16,Sample 02,B.fragilis,Undetermined,1,FAM,,FAM
+117,D17,Sample 02,Adenovirus,33.416,1,FAM,,FAM
+118,D18,Sample 02,Norovirus GII,Undetermined,1,FAM,,FAM
+119,D19,Sample 02,Sapovirus,32.245,1,FAM,,FAM
+120,D20,Sample 02,MS2,29.057,1,FAM,,FAM
+121,D21,Sample 02,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+122,D21,Sample 02,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+123,D22,Sample 02,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+124,D22,Sample 02,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+125,D23,Sample 02,Rotavirus_G2,Undetermined,1,FAM,,FAM
+126,D23,Sample 02,Rotavirus_G9,Undetermined,0,VIC,,VIC
+127,D24,Sample 02,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+128,D24,Sample 02,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+129,E1,Sample 03,Ancylostoma,Undetermined,1,FAM,,FAM
+130,E2,Sample 03,Ascaris,Undetermined,1,FAM,,FAM
+131,E3,Sample 03,E.bieneusi,Undetermined,1,FAM,,FAM
+132,E3,Sample 03,E.intestinalis,Undetermined,0,VIC,,VIC
+133,E4,Sample 03,PhHV,28.327,1,FAM,,FAM
+134,E5,Sample 03,E.histolytica,Undetermined,1,FAM,,FAM
+135,E6,Sample 03,Giardia,18.882,1,FAM,,FAM
+136,E7,Sample 03,Cryptosporidium,Undetermined,1,FAM,,FAM
+137,E8,Sample 03,EPEC_eae,36.305,1,FAM,,FAM
+138,E9,Sample 03,ETEC_STh,Undetermined,1,FAM,,FAM
+139,E9,Sample 03,ETEC_STp,34.784,0,VIC,,VIC
+140,E10,Sample 03,EAEC_aaiC,Undetermined,1,FAM,,FAM
+141,E10,Sample 03,EAEC_aatA,36.785,0,VIC,,VIC
+142,E11,Sample 03,Hs99999901_s1,22.085,1,FAM,,FAM
+143,E12,Sample 03,V.cholerae,Undetermined,1,FAM,,FAM
+144,E13,Sample 03,Salmonella,Undetermined,1,FAM,,FAM
+145,E14,Sample 03,C.jejuni/coli,Undetermined,1,FAM,,FAM
+146,E15,Sample 03,C.difficile tcdA,Undetermined,1,FAM,,VIC
+147,E15,Sample 03,C.difficile tcdB,Undetermined,0,VIC,,FAM
+148,E16,Sample 03,Aeromonas,Undetermined,1,FAM,,FAM
+149,E17,Sample 03,Adenovirus 40/41,Undetermined,1,FAM,,FAM
+150,E18,Sample 03,Norovirus GI,Undetermined,1,FAM,,FAM
+151,E19,Sample 03,Astrovirus,Undetermined,1,FAM,,FAM
+152,E20,Sample 03,MS2,27.427,1,FAM,,FAM
+153,E21,Sample 03,Rotavirus_P11,Undetermined,0,VIC,,VIC
+154,E21,Sample 03,Rotavirus_P8,Undetermined,1,FAM,,FAM
+155,E22,Sample 03,Rotavirus_P10,Undetermined,0,VIC,,VIC
+156,E22,Sample 03,Rotavirus_P6,Undetermined,1,FAM,,FAM
+157,E23,Sample 03,Rotavirus_P4,Undetermined,1,FAM,,FAM
+158,E23,Sample 03,Rotavirus_P9,Undetermined,0,VIC,,VIC
+159,E24,Sample 03,Rotavirus,Undetermined,1,FAM,,FAM
+160,F1,Sample 03,Necator,Undetermined,1,FAM,,FAM
+161,F2,Sample 03,Trichuris,Undetermined,1,FAM,,FAM
+162,F3,Sample 03,Cyclospora,Undetermined,1,FAM,,FAM
+163,F3,Sample 03,Isospora,Undetermined,0,VIC,,VIC
+164,F4,Sample 03,PhHV,28.146,1,FAM,,FAM
+165,F5,Sample 03,Strongyloides,Undetermined,1,FAM,,FAM
+166,F6,Sample 03,Giardia A,Undetermined,0,VIC,,VIC
+167,F6,Sample 03,Giardia B,31.585,1,FAM,,FAM
+168,F7,Sample 03,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+169,F7,Sample 03,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+170,F8,Sample 03,EPEC_bfpA,33.791,1,FAM,,FAM
+171,F9,Sample 03,ETEC_LT,Undetermined,1,FAM,,FAM
+172,F10,Sample 03,EAEC_aar,Undetermined,0,VIC,,VIC
+173,F10,Sample 03,EAEC_aggR,Undetermined,1,FAM,,FAM
+174,F11,Sample 03,Bacterial 16S,13.293,1,FAM,,FAM
+175,F12,Sample 03,STEC_stx1,Undetermined,1,FAM,,VIC
+176,F12,Sample 03,STEC_stx2,Undetermined,0,VIC,,FAM
+177,F13,Sample 03,Shigella/EIEC,Undetermined,1,FAM,,FAM
+178,F14,Sample 03,Campylobacter pan,Undetermined,1,FAM,,FAM
+179,F15,Sample 03,H.pylori,Undetermined,1,FAM,,FAM
+180,F16,Sample 03,B.fragilis,Undetermined,1,FAM,,FAM
+181,F17,Sample 03,Adenovirus,33.833,1,FAM,,FAM
+182,F18,Sample 03,Norovirus GII,Undetermined,1,FAM,,FAM
+183,F19,Sample 03,Sapovirus,31.73,1,FAM,,FAM
+184,F20,Sample 03,MS2,27.33,1,FAM,,FAM
+185,F21,Sample 03,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+186,F21,Sample 03,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+187,F22,Sample 03,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+188,F22,Sample 03,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+189,F23,Sample 03,Rotavirus_G2,Undetermined,1,FAM,,FAM
+190,F23,Sample 03,Rotavirus_G9,Undetermined,0,VIC,,VIC
+191,F24,Sample 03,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+192,F24,Sample 03,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+193,G1,Sample 04,Ancylostoma,Undetermined,1,FAM,,FAM
+194,G2,Sample 04,Ascaris,Undetermined,1,FAM,,FAM
+195,G3,Sample 04,E.bieneusi,Undetermined,1,FAM,,FAM
+196,G3,Sample 04,E.intestinalis,Undetermined,0,VIC,,VIC
+197,G4,Sample 04,PhHV,29.238,1,FAM,,FAM
+198,G5,Sample 04,E.histolytica,Undetermined,1,FAM,,FAM
+199,G6,Sample 04,Giardia,23.372,1,FAM,,FAM
+200,G7,Sample 04,Cryptosporidium,Undetermined,1,FAM,,FAM
+201,G8,Sample 04,EPEC_eae,34.857,1,FAM,,FAM
+202,G9,Sample 04,ETEC_STh,34.43,1,FAM,,FAM
+203,G9,Sample 04,ETEC_STp,33.634,0,VIC,,VIC
+204,G10,Sample 04,EAEC_aaiC,Undetermined,1,FAM,,FAM
+205,G10,Sample 04,EAEC_aatA,Undetermined,0,VIC,,VIC
+206,G11,Sample 04,Hs99999901_s1,20.284,1,FAM,,FAM
+207,G12,Sample 04,V.cholerae,Undetermined,1,FAM,,FAM
+208,G13,Sample 04,Salmonella,Undetermined,1,FAM,,FAM
+209,G14,Sample 04,C.jejuni/coli,Undetermined,1,FAM,,FAM
+210,G15,Sample 04,C.difficile tcdA,Undetermined,1,FAM,,VIC
+211,G15,Sample 04,C.difficile tcdB,Undetermined,0,VIC,,FAM
+212,G16,Sample 04,Aeromonas,33.979,1,FAM,,FAM
+213,G17,Sample 04,Adenovirus 40/41,39.204,1,FAM,,FAM
+214,G18,Sample 04,Norovirus GI,34.331,1,FAM,,FAM
+215,G19,Sample 04,Astrovirus,Undetermined,1,FAM,,FAM
+216,G20,Sample 04,MS2,28.585,1,FAM,,FAM
+217,G21,Sample 04,Rotavirus_P11,Undetermined,0,VIC,,VIC
+218,G21,Sample 04,Rotavirus_P8,Undetermined,1,FAM,,FAM
+219,G22,Sample 04,Rotavirus_P10,Undetermined,0,VIC,,VIC
+220,G22,Sample 04,Rotavirus_P6,Undetermined,1,FAM,,FAM
+221,G23,Sample 04,Rotavirus_P4,Undetermined,1,FAM,,FAM
+222,G23,Sample 04,Rotavirus_P9,Undetermined,0,VIC,,VIC
+223,G24,Sample 04,Rotavirus,Undetermined,1,FAM,,FAM
+224,H1,Sample 04,Necator,Undetermined,1,FAM,,FAM
+225,H2,Sample 04,Trichuris,Undetermined,1,FAM,,FAM
+226,H3,Sample 04,Cyclospora,Undetermined,1,FAM,,FAM
+227,H3,Sample 04,Isospora,Undetermined,0,VIC,,VIC
+228,H4,Sample 04,PhHV,29.628,1,FAM,,FAM
+229,H5,Sample 04,Strongyloides,Undetermined,1,FAM,,FAM
+230,H6,Sample 04,Giardia A,Undetermined,0,VIC,,VIC
+231,H6,Sample 04,Giardia B,34.964,1,FAM,,FAM
+232,H7,Sample 04,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+233,H7,Sample 04,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+234,H8,Sample 04,EPEC_bfpA,34.575,1,FAM,,FAM
+235,H9,Sample 04,ETEC_LT,34.021,1,FAM,,FAM
+236,H10,Sample 04,EAEC_aar,Undetermined,0,VIC,,VIC
+237,H10,Sample 04,EAEC_aggR,34.97,1,FAM,,FAM
+238,H11,Sample 04,Bacterial 16S,14.689,1,FAM,,FAM
+239,H12,Sample 04,STEC_stx1,Undetermined,1,FAM,,VIC
+240,H12,Sample 04,STEC_stx2,Undetermined,0,VIC,,FAM
+241,H13,Sample 04,Shigella/EIEC,Undetermined,1,FAM,,FAM
+242,H14,Sample 04,Campylobacter pan,37.487,1,FAM,,FAM
+243,H15,Sample 04,H.pylori,Undetermined,1,FAM,,FAM
+244,H16,Sample 04,B.fragilis,Undetermined,1,FAM,,FAM
+245,H17,Sample 04,Adenovirus,Undetermined,1,FAM,,FAM
+246,H18,Sample 04,Norovirus GII,Undetermined,1,FAM,,FAM
+247,H19,Sample 04,Sapovirus,32.901,1,FAM,,FAM
+248,H20,Sample 04,MS2,28.923,1,FAM,,FAM
+249,H21,Sample 04,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+250,H21,Sample 04,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+251,H22,Sample 04,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+252,H22,Sample 04,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+253,H23,Sample 04,Rotavirus_G2,Undetermined,1,FAM,,FAM
+254,H23,Sample 04,Rotavirus_G9,Undetermined,0,VIC,,VIC
+255,H24,Sample 04,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+256,H24,Sample 04,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+257,I1,Sample 05,Ancylostoma,Undetermined,1,FAM,,FAM
+258,I2,Sample 05,Ascaris,Undetermined,1,FAM,,FAM
+259,I3,Sample 05,E.bieneusi,Undetermined,1,FAM,,FAM
+260,I3,Sample 05,E.intestinalis,Undetermined,0,VIC,,VIC
+261,I4,Sample 05,PhHV,28.32,1,FAM,,FAM
+262,I5,Sample 05,E.histolytica,Undetermined,1,FAM,,FAM
+263,I6,Sample 05,Giardia,17.979,1,FAM,,FAM
+264,I7,Sample 05,Cryptosporidium,Undetermined,1,FAM,,FAM
+265,I8,Sample 05,EPEC_eae,30.68,1,FAM,,FAM
+266,I9,Sample 05,ETEC_STh,35.971,1,FAM,,FAM
+267,I9,Sample 05,ETEC_STp,36.003,0,VIC,,VIC
+268,I10,Sample 05,EAEC_aaiC,Undetermined,1,FAM,,FAM
+269,I10,Sample 05,EAEC_aatA,31.693,0,VIC,,VIC
+270,I11,Sample 05,Hs99999901_s1,21.165,1,FAM,,FAM
+271,I12,Sample 05,V.cholerae,Undetermined,1,FAM,,FAM
+272,I13,Sample 05,Salmonella,Undetermined,1,FAM,,FAM
+273,I14,Sample 05,C.jejuni/coli,Undetermined,1,FAM,,FAM
+274,I15,Sample 05,C.difficile tcdA,Undetermined,1,FAM,,VIC
+275,I15,Sample 05,C.difficile tcdB,Undetermined,0,VIC,,FAM
+276,I16,Sample 05,Aeromonas,Undetermined,1,FAM,,FAM
+277,I17,Sample 05,Adenovirus 40/41,Undetermined,1,FAM,,FAM
+278,I18,Sample 05,Norovirus GI,Undetermined,1,FAM,,FAM
+279,I19,Sample 05,Astrovirus,Undetermined,1,FAM,,FAM
+280,I20,Sample 05,MS2,28.115,1,FAM,,FAM
+281,I21,Sample 05,Rotavirus_P11,Undetermined,0,VIC,,VIC
+282,I21,Sample 05,Rotavirus_P8,Undetermined,1,FAM,,FAM
+283,I22,Sample 05,Rotavirus_P10,Undetermined,0,VIC,,VIC
+284,I22,Sample 05,Rotavirus_P6,Undetermined,1,FAM,,FAM
+285,I23,Sample 05,Rotavirus_P4,Undetermined,1,FAM,,FAM
+286,I23,Sample 05,Rotavirus_P9,Undetermined,0,VIC,,VIC
+287,I24,Sample 05,Rotavirus,Undetermined,1,FAM,,FAM
+288,J1,Sample 05,Necator,Undetermined,1,FAM,,FAM
+289,J2,Sample 05,Trichuris,Undetermined,1,FAM,,FAM
+290,J3,Sample 05,Cyclospora,Undetermined,1,FAM,,FAM
+291,J3,Sample 05,Isospora,Undetermined,0,VIC,,VIC
+292,J4,Sample 05,PhHV,28.349,1,FAM,,FAM
+293,J5,Sample 05,Strongyloides,Undetermined,1,FAM,,FAM
+294,J6,Sample 05,Giardia A,Undetermined,0,VIC,,VIC
+295,J6,Sample 05,Giardia B,31.026,1,FAM,,FAM
+296,J7,Sample 05,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+297,J7,Sample 05,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+298,J8,Sample 05,EPEC_bfpA,33.55,1,FAM,,FAM
+299,J9,Sample 05,ETEC_LT,34.118,1,FAM,,FAM
+300,J10,Sample 05,EAEC_aar,29.589,0,VIC,,VIC
+301,J10,Sample 05,EAEC_aggR,Undetermined,1,FAM,,FAM
+302,J11,Sample 05,Bacterial 16S,14.276,1,FAM,,FAM
+303,J12,Sample 05,STEC_stx1,Undetermined,1,FAM,,VIC
+304,J12,Sample 05,STEC_stx2,Undetermined,0,VIC,,FAM
+305,J13,Sample 05,Shigella/EIEC,Undetermined,1,FAM,,FAM
+306,J14,Sample 05,Campylobacter pan,28.216,1,FAM,,FAM
+307,J15,Sample 05,H.pylori,Undetermined,1,FAM,,FAM
+308,J16,Sample 05,B.fragilis,Undetermined,1,FAM,,FAM
+309,J17,Sample 05,Adenovirus,21.93,1,FAM,,FAM
+310,J18,Sample 05,Norovirus GII,Undetermined,1,FAM,,FAM
+311,J19,Sample 05,Sapovirus,Undetermined,1,FAM,,FAM
+312,J20,Sample 05,MS2,27.829,1,FAM,,FAM
+313,J21,Sample 05,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+314,J21,Sample 05,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+315,J22,Sample 05,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+316,J22,Sample 05,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+317,J23,Sample 05,Rotavirus_G2,Undetermined,1,FAM,,FAM
+318,J23,Sample 05,Rotavirus_G9,Undetermined,0,VIC,,VIC
+319,J24,Sample 05,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+320,J24,Sample 05,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+321,K1,Sample 06,Ancylostoma,Undetermined,1,FAM,,FAM
+322,K2,Sample 06,Ascaris,Undetermined,1,FAM,,FAM
+323,K3,Sample 06,E.bieneusi,Undetermined,1,FAM,,FAM
+324,K3,Sample 06,E.intestinalis,Undetermined,0,VIC,,VIC
+325,K4,Sample 06,PhHV,28.453,1,FAM,,FAM
+326,K5,Sample 06,E.histolytica,Undetermined,1,FAM,,FAM
+327,K6,Sample 06,Giardia,25.79,1,FAM,,FAM
+328,K7,Sample 06,Cryptosporidium,35.813,1,FAM,,FAM
+329,K8,Sample 06,EPEC_eae,27.549,1,FAM,,FAM
+330,K9,Sample 06,ETEC_STh,Undetermined,1,FAM,,FAM
+331,K9,Sample 06,ETEC_STp,Undetermined,0,VIC,,VIC
+332,K10,Sample 06,EAEC_aaiC,Undetermined,1,FAM,,FAM
+333,K10,Sample 06,EAEC_aatA,29.769,0,VIC,,VIC
+334,K11,Sample 06,Hs99999901_s1,19.045,1,FAM,,FAM
+335,K12,Sample 06,V.cholerae,Undetermined,1,FAM,,FAM
+336,K13,Sample 06,Salmonella,Undetermined,1,FAM,,FAM
+337,K14,Sample 06,C.jejuni/coli,Undetermined,1,FAM,,FAM
+338,K15,Sample 06,C.difficile tcdA,Undetermined,1,FAM,,VIC
+339,K15,Sample 06,C.difficile tcdB,Undetermined,0,VIC,,FAM
+340,K16,Sample 06,Aeromonas,Undetermined,1,FAM,,FAM
+341,K17,Sample 06,Adenovirus 40/41,Undetermined,1,FAM,,FAM
+342,K18,Sample 06,Norovirus GI,36.106,1,FAM,,FAM
+343,K19,Sample 06,Astrovirus,Undetermined,1,FAM,,FAM
+344,K20,Sample 06,MS2,27.992,1,FAM,,FAM
+345,K21,Sample 06,Rotavirus_P11,Undetermined,0,VIC,,VIC
+346,K21,Sample 06,Rotavirus_P8,Undetermined,1,FAM,,FAM
+347,K22,Sample 06,Rotavirus_P10,Undetermined,0,VIC,,VIC
+348,K22,Sample 06,Rotavirus_P6,Undetermined,1,FAM,,FAM
+349,K23,Sample 06,Rotavirus_P4,Undetermined,1,FAM,,FAM
+350,K23,Sample 06,Rotavirus_P9,Undetermined,0,VIC,,VIC
+351,K24,Sample 06,Rotavirus,Undetermined,1,FAM,,FAM
+352,L1,Sample 06,Necator,Undetermined,1,FAM,,FAM
+353,L2,Sample 06,Trichuris,Undetermined,1,FAM,,FAM
+354,L3,Sample 06,Cyclospora,Undetermined,1,FAM,,FAM
+355,L3,Sample 06,Isospora,Undetermined,0,VIC,,VIC
+356,L4,Sample 06,PhHV,28.052,1,FAM,,FAM
+357,L5,Sample 06,Strongyloides,Undetermined,1,FAM,,FAM
+358,L6,Sample 06,Giardia A,Undetermined,0,VIC,,VIC
+359,L6,Sample 06,Giardia B,Undetermined,1,FAM,,FAM
+360,L7,Sample 06,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+361,L7,Sample 06,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+362,L8,Sample 06,EPEC_bfpA,Undetermined,1,FAM,,FAM
+363,L9,Sample 06,ETEC_LT,Undetermined,1,FAM,,FAM
+364,L10,Sample 06,EAEC_aar,28.843,0,VIC,,VIC
+365,L10,Sample 06,EAEC_aggR,28.209,1,FAM,,FAM
+366,L11,Sample 06,Bacterial 16S,12.083,1,FAM,,FAM
+367,L12,Sample 06,STEC_stx1,Undetermined,1,FAM,,VIC
+368,L12,Sample 06,STEC_stx2,Undetermined,0,VIC,,FAM
+369,L13,Sample 06,Shigella/EIEC,31.123,1,FAM,,FAM
+370,L14,Sample 06,Campylobacter pan,Undetermined,1,FAM,,FAM
+371,L15,Sample 06,H.pylori,Undetermined,1,FAM,,FAM
+372,L16,Sample 06,B.fragilis,26.435,1,FAM,,FAM
+373,L17,Sample 06,Adenovirus,Undetermined,1,FAM,,FAM
+374,L18,Sample 06,Norovirus GII,Undetermined,1,FAM,,FAM
+375,L19,Sample 06,Sapovirus,Undetermined,1,FAM,,FAM
+376,L20,Sample 06,MS2,27.876,1,FAM,,FAM
+377,L21,Sample 06,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+378,L21,Sample 06,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+379,L22,Sample 06,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+380,L22,Sample 06,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+381,L23,Sample 06,Rotavirus_G2,Undetermined,1,FAM,,FAM
+382,L23,Sample 06,Rotavirus_G9,Undetermined,0,VIC,,VIC
+383,L24,Sample 06,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+384,L24,Sample 06,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+385,M1,Sample 07,Ancylostoma,Undetermined,1,FAM,,FAM
+386,M2,Sample 07,Ascaris,Undetermined,1,FAM,,FAM
+387,M3,Sample 07,E.bieneusi,33.28,1,FAM,,FAM
+388,M3,Sample 07,E.intestinalis,Undetermined,0,VIC,,VIC
+389,M4,Sample 07,PhHV,29.894,1,FAM,,FAM
+390,M5,Sample 07,E.histolytica,Undetermined,1,FAM,,FAM
+391,M6,Sample 07,Giardia,35.151,1,FAM,,FAM
+392,M7,Sample 07,Cryptosporidium,Undetermined,1,FAM,,FAM
+393,M8,Sample 07,EPEC_eae,35.267,1,FAM,,FAM
+394,M9,Sample 07,ETEC_STh,Undetermined,1,FAM,,FAM
+395,M9,Sample 07,ETEC_STp,Undetermined,0,VIC,,VIC
+396,M10,Sample 07,EAEC_aaiC,33.47,1,FAM,,FAM
+397,M10,Sample 07,EAEC_aatA,34.985,0,VIC,,VIC
+398,M11,Sample 07,Hs99999901_s1,23.688,1,FAM,,FAM
+399,M12,Sample 07,V.cholerae,Undetermined,1,FAM,,FAM
+400,M13,Sample 07,Salmonella,Undetermined,1,FAM,,FAM
+401,M14,Sample 07,C.jejuni/coli,Undetermined,1,FAM,,FAM
+402,M15,Sample 07,C.difficile tcdA,Undetermined,1,FAM,,VIC
+403,M15,Sample 07,C.difficile tcdB,Undetermined,0,VIC,,FAM
+404,M16,Sample 07,Aeromonas,Undetermined,1,FAM,,FAM
+405,M17,Sample 07,Adenovirus 40/41,36.162,1,FAM,,FAM
+406,M18,Sample 07,Norovirus GI,Undetermined,1,FAM,,FAM
+407,M19,Sample 07,Astrovirus,36.706,1,FAM,,FAM
+408,M20,Sample 07,MS2,26.45,1,FAM,,FAM
+409,M21,Sample 07,Rotavirus_P11,Undetermined,0,VIC,,VIC
+410,M21,Sample 07,Rotavirus_P8,Undetermined,1,FAM,,FAM
+411,M22,Sample 07,Rotavirus_P10,Undetermined,0,VIC,,VIC
+412,M22,Sample 07,Rotavirus_P6,Undetermined,1,FAM,,FAM
+413,M23,Sample 07,Rotavirus_P4,Undetermined,1,FAM,,FAM
+414,M23,Sample 07,Rotavirus_P9,Undetermined,0,VIC,,VIC
+415,M24,Sample 07,Rotavirus,Undetermined,1,FAM,,FAM
+416,N1,Sample 07,Necator,Undetermined,1,FAM,,FAM
+417,N2,Sample 07,Trichuris,Undetermined,1,FAM,,FAM
+418,N3,Sample 07,Cyclospora,Undetermined,1,FAM,,FAM
+419,N3,Sample 07,Isospora,Undetermined,0,VIC,,VIC
+420,N4,Sample 07,PhHV,30.256,1,FAM,,FAM
+421,N5,Sample 07,Strongyloides,Undetermined,1,FAM,,FAM
+422,N6,Sample 07,Giardia A,Undetermined,0,VIC,,VIC
+423,N6,Sample 07,Giardia B,Undetermined,1,FAM,,FAM
+424,N7,Sample 07,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+425,N7,Sample 07,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+426,N8,Sample 07,EPEC_bfpA,Undetermined,1,FAM,,FAM
+427,N9,Sample 07,ETEC_LT,Undetermined,1,FAM,,FAM
+428,N10,Sample 07,EAEC_aar,Undetermined,0,VIC,,VIC
+429,N10,Sample 07,EAEC_aggR,34.312,1,FAM,,FAM
+430,N11,Sample 07,Bacterial 16S,15.132,1,FAM,,FAM
+431,N12,Sample 07,STEC_stx1,Undetermined,1,FAM,,VIC
+432,N12,Sample 07,STEC_stx2,Undetermined,0,VIC,,FAM
+433,N13,Sample 07,Shigella/EIEC,Undetermined,1,FAM,,FAM
+434,N14,Sample 07,Campylobacter pan,Undetermined,1,FAM,,FAM
+435,N15,Sample 07,H.pylori,Undetermined,1,FAM,,FAM
+436,N16,Sample 07,B.fragilis,Undetermined,1,FAM,,FAM
+437,N17,Sample 07,Adenovirus,35.343,1,FAM,,FAM
+438,N18,Sample 07,Norovirus GII,Undetermined,1,FAM,,FAM
+439,N19,Sample 07,Sapovirus,38.373,1,FAM,,FAM
+440,N20,Sample 07,MS2,26.643,1,FAM,,FAM
+441,N21,Sample 07,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+442,N21,Sample 07,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+443,N22,Sample 07,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+444,N22,Sample 07,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+445,N23,Sample 07,Rotavirus_G2,Undetermined,1,FAM,,FAM
+446,N23,Sample 07,Rotavirus_G9,Undetermined,0,VIC,,VIC
+447,N24,Sample 07,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+448,N24,Sample 07,Rotavirus_G8,Undetermined,NA,VIC,,VIC
+449,O1,Sample 08,Ancylostoma,Undetermined,1,FAM,,FAM
+450,O2,Sample 08,Ascaris,Undetermined,1,FAM,,FAM
+451,O3,Sample 08,E.bieneusi,Undetermined,1,FAM,,FAM
+452,O3,Sample 08,E.intestinalis,Undetermined,0,VIC,,VIC
+453,O4,Sample 08,PhHV,28.508,1,FAM,,FAM
+454,O5,Sample 08,E.histolytica,Undetermined,1,FAM,,FAM
+455,O6,Sample 08,Giardia,12.194,1,FAM,,FAM
+456,O7,Sample 08,Cryptosporidium,30.838,1,FAM,,FAM
+457,O8,Sample 08,EPEC_eae,25.928,1,FAM,,FAM
+458,O9,Sample 08,ETEC_STh,Undetermined,1,FAM,,FAM
+459,O9,Sample 08,ETEC_STp,Undetermined,0,VIC,,VIC
+460,O10,Sample 08,EAEC_aaiC,27.971,1,FAM,,FAM
+461,O10,Sample 08,EAEC_aatA,27.882,0,VIC,,VIC
+462,O11,Sample 08,Hs99999901_s1,21.494,1,FAM,,FAM
+463,O12,Sample 08,V.cholerae,Undetermined,1,FAM,,FAM
+464,O13,Sample 08,Salmonella,Undetermined,1,FAM,,FAM
+465,O14,Sample 08,C.jejuni/coli,24.31,1,FAM,,FAM
+466,O15,Sample 08,C.difficile tcdA,Undetermined,1,FAM,,VIC
+467,O15,Sample 08,C.difficile tcdB,Undetermined,0,VIC,,FAM
+468,O16,Sample 08,Aeromonas,Undetermined,1,FAM,,FAM
+469,O17,Sample 08,Adenovirus 40/41,32.968,1,FAM,,FAM
+470,O18,Sample 08,Norovirus GI,Undetermined,1,FAM,,FAM
+471,O19,Sample 08,Astrovirus,Undetermined,1,FAM,,FAM
+472,O20,Sample 08,MS2,27.614,1,FAM,,FAM
+473,O21,Sample 08,Rotavirus_P11,Undetermined,0,VIC,,VIC
+474,O21,Sample 08,Rotavirus_P8,Undetermined,1,FAM,,FAM
+475,O22,Sample 08,Rotavirus_P10,Undetermined,0,VIC,,VIC
+476,O22,Sample 08,Rotavirus_P6,Undetermined,1,FAM,,FAM
+477,O23,Sample 08,Rotavirus_P4,Undetermined,1,FAM,,FAM
+478,O23,Sample 08,Rotavirus_P9,Undetermined,0,VIC,,VIC
+479,O24,Sample 08,Rotavirus,Undetermined,1,FAM,,FAM
+480,P1,Sample 08,Necator,Undetermined,1,FAM,,FAM
+481,P2,Sample 08,Trichuris,Undetermined,1,FAM,,FAM
+482,P3,Sample 08,Cyclospora,Undetermined,1,FAM,,FAM
+483,P3,Sample 08,Isospora,Undetermined,0,VIC,,VIC
+484,P4,Sample 08,PhHV,28.477,1,FAM,,FAM
+485,P5,Sample 08,Strongyloides,Undetermined,1,FAM,,FAM
+486,P6,Sample 08,Giardia A,Undetermined,0,VIC,,VIC
+487,P6,Sample 08,Giardia B,29.409,1,FAM,,FAM
+488,P7,Sample 08,Cryptosporidium hominis,Undetermined,0,VIC,,VIC
+489,P7,Sample 08,Cryptosporidium parvum,Undetermined,1,FAM,,FAM
+490,P8,Sample 08,EPEC_bfpA,Undetermined,1,FAM,,FAM
+491,P9,Sample 08,ETEC_LT,Undetermined,1,FAM,,FAM
+492,P10,Sample 08,EAEC_aar,26.989,0,VIC,,VIC
+493,P10,Sample 08,EAEC_aggR,26.171,1,FAM,,FAM
+494,P11,Sample 08,Bacterial 16S,11.787,1,FAM,,FAM
+495,P12,Sample 08,STEC_stx1,27.581,1,FAM,,VIC
+496,P12,Sample 08,STEC_stx2,26.407,0,VIC,,FAM
+497,P13,Sample 08,Shigella/EIEC,Undetermined,1,FAM,,FAM
+498,P14,Sample 08,Campylobacter pan,21.694,1,FAM,,FAM
+499,P15,Sample 08,H.pylori,35.823,1,FAM,,FAM
+500,P16,Sample 08,B.fragilis,Undetermined,1,FAM,,FAM
+501,P17,Sample 08,Adenovirus,33.723,1,FAM,,FAM
+502,P18,Sample 08,Norovirus GII,Undetermined,1,FAM,,FAM
+503,P19,Sample 08,Sapovirus,Undetermined,1,FAM,,FAM
+504,P20,Sample 08,MS2,27.363,1,FAM,,FAM
+505,P21,Sample 08,Rotavirus_G12,Undetermined,NA,FAM,,VIC
+506,P21,Sample 08,Rotavirus_G4,Undetermined,NA,VIC,,FAM
+507,P22,Sample 08,Rotavirus_G10,Undetermined,NA,FAM,,VIC
+508,P22,Sample 08,Rotavirus_G3,Undetermined,NA,VIC,,FAM
+509,P23,Sample 08,Rotavirus_G2,Undetermined,1,FAM,,FAM
+510,P23,Sample 08,Rotavirus_G9,Undetermined,0,VIC,,VIC
+511,P24,Sample 08,Rotavirus_G1,Undetermined,NA,FAM,,FAM
+512,P24,Sample 08,Rotavirus_G8,Undetermined,NA,VIC,,VIC
